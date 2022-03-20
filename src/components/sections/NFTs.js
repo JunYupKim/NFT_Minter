@@ -89,7 +89,7 @@ const NFTs = ({
                           <p></p>
                           <p>Description : {data.value.description ? data.value.description.slice(0, 200) : "No Description"}</p>
                           <p>Minted At : {data.value.time}  </p>
-                          <span className="testimonial-item-name text-color-high"> <p>Price : {data.value.price} </p></span>
+                          <span className="testimonial-item-name text-color-high"> <p>Price : {data.value.price} Eth </p></span>
    
                         </div>
                       </div>
